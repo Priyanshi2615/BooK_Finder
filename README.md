@@ -15,7 +15,9 @@ A responsive web application built with React that helps users search for books 
 ## Technologies Used
 
 -React: For building the user interface.
+
 -CSS: For styling and responsiveness.
+
 -Open Library API: For fetching book data.
 
 ## Installation
