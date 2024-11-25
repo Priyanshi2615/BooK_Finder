@@ -5,8 +5,11 @@ A responsive web application built with React that helps users search for books 
 ## Features
 
 -Search by Title or Author: Users can filter books based on their desired category.
+
 -Dynamic Data Fetching: Data is fetched in real time from the Open Library API.
+
 -Responsive Design: The layout adjusts for various screen sizes.
+
 -Loader: Displays a spinner in the search button while fetching data.
 
 ## Technologies Used
@@ -47,4 +50,5 @@ npm start
 ### Note:
 
 -The application fetches book data from the OpenLibrary API. Ensure you have a stable internet connection to retrieve results.
+
 -Only books matching the entered query will be displayed. If no books are found, an appropriate message will appear.
